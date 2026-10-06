@@ -1,0 +1,2 @@
+system:index,confusion_matrix,kappa,overall_accuracy,producers_accuracy,users_accuracy,.geo
+0,"[[12, 0, 0, 0], [3, 9, 0, 0], [1, 0, 8, 0], [0, 0, 0, 13]]",0.8831746031746033,0.9130434782608695,"[[1.0], [0.75], [0.8888888888888888], [1.0]]","[[0.75, 1.0, 1.0, 1.0]]","{""type"":""MultiPoint"",""coordinates"":[]}"
